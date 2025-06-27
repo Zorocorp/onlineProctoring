@@ -18,11 +18,6 @@ import {
   Grid,
   TextField,
 } from "@mui/material";
-import MenuIcon from "@mui/icons-material/Menu";
-import TwitterIcon from "@mui/icons-material/Twitter";
-import FacebookIcon from "@mui/icons-material/Facebook";
-import InstagramIcon from "@mui/icons-material/Instagram";
-import logo from "../assets/Image20250320122406.png";
 import { useNavigate } from 'react-router-dom';
 import  Navigation  from './AdminNavbar';
 const Profile = () => {
